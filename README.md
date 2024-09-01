@@ -30,7 +30,7 @@
 - Data manipulation (Pandas, NumPy)
 - Geospatial data processing and analysis (GDAL, GeoPandas)
 - Network analysis (OSMnx, GTFS)
-- Predictive and statistical analysis (regression, temporal analysis, A/B test)
+- Predictive and statistical analysis (regression, temporal analysis, A/B testing)
 - Machine learning (Clustering)
 - Image processing and analysis (OpenCV, Rasterio, PyTorch: Mask R-CNN)
 - Visualisation (Matplotlib, Seaborn, Plotly, and Folium)
