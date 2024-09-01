@@ -25,11 +25,15 @@
 - PTV VISSIM (Microscopic traffic simulation software)
 
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Python Skills</h3>
+
+- Data manipulation (Pandas, NumPy)
 - Geospatial data processing and analysis (GDAL, GeoPandas)
-- 
-- Visualisation (Seaborn, Plotly, and Folium)
-- 
+- Network analysis (OSMnx)
+- Machine learning (Clustering)
+- Image processing and analysis (OpenCV, Rasterio, PyTorch: Mask R-CNN)
+- Visualisation (Matplotlib, Seaborn, Plotly, and Folium)
+
 
 <h3 alighn="left">Contact Me</h3>
 <p align="left">
