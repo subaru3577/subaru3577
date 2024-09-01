@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subaru Shimizu.</h1>
+<h1 align="center">Hi 👋, I'm Subaru Shimizu, Transportation/Spatial Data Analyst</h1>
 <h3 align="left">Transportation/Spatial Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaru3577&label=Profile%20views&color=0e75b6&style=flat" alt="subaru3577" /> </p>
