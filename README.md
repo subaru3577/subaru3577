@@ -16,9 +16,17 @@
 - 🚃 Mobility analysis
 - 📷 Image processing
 
-<h3 align="left">Languages and Tools</h3>
-
+<h3 align="left">Languages and Softwares</h3>
 - Python
+- QGIS
+- SPSS
+- Tableau
+- PTV VISSIM (Microscopic traffic simulation software)
+
+<h3 align="left">Languages and Tools</h3>
+- Geospatial data processing and analysis (GDAL, GeoPandas)
+- 
+- Visualisation (Seaborn, Plotly, and Folium)
 - 
 
 <h3 alighn="left">Contact Me</h3>
