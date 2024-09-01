@@ -11,10 +11,9 @@
 
 <h3 alighn="left">Passion and Interset</h3>
 
-- 🌏 Geospatial analysis
-- 👨‍👩‍👦 Geodemographic analysis
+- 🌏 Geospatial and 👨‍👩‍👦 Geodemographic analysis
 - 🚃 Mobility analysis
-- 📷 Image processing
+- 📷 Image analysis
 
 <h3 align="left">Languages and Softwares</h3>
 
