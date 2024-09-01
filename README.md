@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaru3577&label=Profile%20views&color=0e75b6&style=flat" alt="subaru3577" /> </p>
 
 <h3 alighn="left">Who am I?</h3>
-- 📚 I'm pursuing an MSc in Urban Data Science and Analytics at the University of Leeds.<br>
-- 🏢 I'm currently on a career break after working for an engineering consultancy firm for over five years.<br>
+- 📚 I'm pursuing an MSc in Urban Data Science and Analytics at the University of Leeds.  
+- 🏢 I'm currently on a career break after working for an engineering consultancy firm for over five years.  
 
 <h3 alighn="left">Passion and Interset</h3>
 - 
