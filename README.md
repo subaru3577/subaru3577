@@ -4,8 +4,11 @@
 
 <h3 alighn="left">Who am I?</h3>
 <p>
+  - 🔭 I’m currently working on ...
 - 📚 I'm pursuing an MSc in Urban Data Science and Analytics at the University of Leeds.<br>
+  
 - 🏢 I'm currently on a career break after working for an engineering consultancy firm for over five years.<be>
+- 
 </p>
 
 <h3 alighn="left">Passion and Interset</h3>
