@@ -21,6 +21,7 @@
 - QGIS
 - SPSS
 - Tableau
+- SQL
 - PTV VISSIM (Microscopic traffic simulation software)
 
 
