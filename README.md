@@ -1,4 +1,4 @@
-<h1 align="center">Subaru, a Spatial Data Analyst | Transportation Engineer</h1>
+<h1 align="center">Subaru, a Spatial Data Scientist | Transportation Engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaru3577&label=Profile%20views&color=0e75b6&style=flat" alt="subaru3577" /> </p>
 
