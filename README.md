@@ -4,7 +4,7 @@
 
 <h3 alighn="left">Who am I?</h3>
 
-- 📚 I completed an MSc in Urban Data Science and Analytics at the University of Leeds.
+- 📚 I completed a MSc in Urban Data Science and Analytics at the University of Leeds.
 - 🏢 I worked for an engineering consultancy firm as a transportation engineer for over five years.
 
 
