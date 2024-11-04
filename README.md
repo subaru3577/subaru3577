@@ -4,14 +4,14 @@
 
 <h3 alighn="left">Who am I?</h3>
 
-- 📚 I completed a MSc in Urban Data Science and Analytics at the University of Leeds.
+- 📚 I completed MSc in Urban Data Science and Analytics at the University of Leeds.
 - 🏢 I worked for an engineering consultancy firm as a transportation engineer for over five years.
 
 
 
 <h3 alighn="left">Passion and Interset</h3>
 
-- 🌏 Geospatial and 👨‍👩‍👦 Geodemographic analysis
+- 🌏 Geospatial analysis and Location Intelligence
 - 🚃 Mobility analysis
 - 📷 Image analysis
 
