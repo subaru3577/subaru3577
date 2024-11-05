@@ -38,6 +38,10 @@
     Generative AI:
     <a href="https://github.com/subaru3577/04_ChatGPT-API.git" target="_blank">"Extracting Key Information about Child Labour from News Articles using ChatGPT API"</a>
   </li>
+  <li>
+    PostgreSQL:
+    <a href="https://github.com/subaru3577/05-PostgreSQL-Python.git" target="_blank">"Descriptive Analysis integrating PostgreSQL and Python"</a>
+  </li>
 
 </ul>
 
