@@ -22,7 +22,7 @@
     <a href="https://www.martello.app/blog/property-age-estimation-from-historical-maps" target="_blank">Master's Dissertation: "Automated building/property age estimation using image analysis on historical maps"</a>
   </li>
   <li>
-    <a href="https://github.com/subaru3577/01_Public-Bus-Service-Improvement.git" target="_blank">Spatial Composite Indexing: "Public Bus Service Improvement for Primary School Travels in Norfolk County, UK"</a>
+    Spatial Composite Indexing:<a href="https://github.com/subaru3577/01_Public-Bus-Service-Improvement.git" target="_blank"> "Public Bus Service Improvement for Primary School Travels in Norfolk County, UK"</a>
   </li>
   <li>
     <a href="https://github.com/subaru3577/02_Air-Passenger-Forecast.git" target="_blank">Time-series Analysis (SARIMA): "Post-Pandemic Air Passenger Travel Forecast"</a>
