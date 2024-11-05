@@ -19,7 +19,7 @@
 
 <ul>
   <li>
-    <a href="[https://www.martello.app/blog/property-age-estimation-from-historical-maps]" target="_blank">Automated building/property age estimation using image analysis on historical maps</a>
+    <a href="https://www.martello.app/blog/property-age-estimation-from-historical-maps" target="_blank">Automated building/property age estimation using image analysis on historical maps</a>
   </li>
 
 </ul>
