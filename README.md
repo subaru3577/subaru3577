@@ -19,11 +19,11 @@
 
 - Python
 - QGIS
-- SPSS
-- Tableau
 - PostgreSQL
+- Tableau
+- SPSS
 - PTV VISSIM (Microscopic traffic simulation software)
-
+- Microsoft Access and Excel (including VBA)
 
 <h3 align="left">Python Skills</h3>
 
