@@ -16,15 +16,8 @@
 - 📷 Image analysis
 
 <h3 align="left">Projects</h3>
-<ul>
-    <li>Master's Dissertation</li>
-    <ul>
-        <li>Automated building/property age estimation using image analysis on historical maps</li>
-        <li>
-            <a href="https://www.martello.app/blog/property-age-estimation-from-historical-maps" target="_blank">Abstract</a>
-        </li>
-    </ul>
-</ul>
+- Dissertation: [Automated building/property age estimation using image analysis on historical maps](https://www.martello.app/blog/property-age-estimation-from-historical-maps)
+- 
 
 <h3 align="left">Languages and Softwares</h3>
 
