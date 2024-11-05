@@ -28,10 +28,10 @@
     <a href="https://github.com/subaru3577/02_Air-Passenger-Forecast.git" target="_blank">Time-series Analysis (SARIMA): "Post-Pandemic Air Passenger Travel Forecast"</a>
   </li>
   <li>
-    <a href="https://github.com/subaru3577/02_Air-Passenger-Forecast.git" target="_blank">Sentiment Analysis and Predictive Modelling: "In-depth Analysis of Airbnb Dataset"</a>
+    <a href="https://github.com/subaru3577/03_Airbnb-Analysis.git" target="_blank">Sentiment Analysis and Predictive Modelling: "In-depth Analysis of Airbnb Dataset"</a>
   </li>
   <li>
-    <a href="https://github.com/subaru3577/02_Air-Passenger-Forecast.git" target="_blank">Sentiment Analysis and Predictive Modelling: "In-depth Analysis of Airbnb Dataset"</a>
+    <a href="https://github.com/subaru3577/04_ChatGPT-API.git" target="_blank">Generative AI: "Extracting Key Information about Child Labour from News Articles using ChatGPT API"</a>
   </li>
 
 </ul>
