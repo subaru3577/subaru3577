@@ -17,7 +17,10 @@
 
 <h3 align="left">Projects</h3>
 <ul>
-  <a href="[https://example.com](https://www.martello.app/blog/property-age-estimation-from-historical-maps)" target="_blank">Automated building/property age estimation using image analysis on historical maps</a>
+  <li>
+    <a href="[https://example.com](https://www.martello.app/blog/property-age-estimation-from-historical-maps)" target="_blank">Automated building/property age estimation using image analysis on historical maps</a>
+  </li>
+
 </ul>
 
 <h3 align="left">Languages and Softwares</h3>
