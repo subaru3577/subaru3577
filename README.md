@@ -19,19 +19,24 @@
 
 <ul>
   <li>
-    <a href="https://www.martello.app/blog/property-age-estimation-from-historical-maps" target="_blank">Master's Dissertation: "Automated building/property age estimation using image analysis on historical maps"</a>
+    Master's Dissertation: 
+    <a href="https://www.martello.app/blog/property-age-estimation-from-historical-maps" target="_blank">"Automated building/property age estimation using image analysis on historical maps"</a>
   </li>
   <li>
-    Spatial Composite Indexing:<a href="https://github.com/subaru3577/01_Public-Bus-Service-Improvement.git" target="_blank"> "Public Bus Service Improvement for Primary School Travels in Norfolk County, UK"</a>
+    Spatial Composite Indexing:
+    <a href="https://github.com/subaru3577/01_Public-Bus-Service-Improvement.git" target="_blank"> "Public Bus Service Improvement for Primary School Travels in Norfolk County, UK"</a>
   </li>
   <li>
-    <a href="https://github.com/subaru3577/02_Air-Passenger-Forecast.git" target="_blank">Time-series Analysis (SARIMA): "Post-Pandemic Air Passenger Travel Forecast"</a>
+    Time-series Analysis (SARIMA):
+    <a href="https://github.com/subaru3577/02_Air-Passenger-Forecast.git" target="_blank"> "Post-Pandemic Air Passenger Travel Forecast"</a>
   </li>
   <li>
-    <a href="https://github.com/subaru3577/03_Airbnb-Analysis.git" target="_blank">Sentiment Analysis and Predictive Modelling: "In-depth Analysis of Airbnb Dataset"</a>
+    Sentiment Analysis and Predictive Modelling:
+    <a href="https://github.com/subaru3577/03_Airbnb-Analysis.git" target="_blank">"In-depth Analysis of Airbnb Dataset"</a>
   </li>
   <li>
-    <a href="https://github.com/subaru3577/04_ChatGPT-API.git" target="_blank">Generative AI: "Extracting Key Information about Child Labour from News Articles using ChatGPT API"</a>
+    Generative AI:
+    <a href="https://github.com/subaru3577/04_ChatGPT-API.git" target="_blank">"Extracting Key Information about Child Labour from News Articles using ChatGPT API"</a>
   </li>
 
 </ul>
