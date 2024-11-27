@@ -42,6 +42,10 @@
     PostgreSQL:
     <a href="https://github.com/subaru3577/05-PostgreSQL-Python.git" target="_blank">"Descriptive Analysis integrating PostgreSQL and Python"</a>
   </li>
+  <li>
+    Geodemographic Analysis:
+    <a href="https://github.com/subaru3577/51_Priority-Areas-Insurance-Campaign.git="_blank">"Identifying Priority Areas for Life Insurance Campaign"</a>
+  </li>
 
 </ul>
 
