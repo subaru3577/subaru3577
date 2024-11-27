@@ -44,7 +44,7 @@
   </li>
   <li>
     Geodemographic Analysis:
-    <a href="https://github.com/subaru3577/51_Priority-Areas-Insurance-Campaign.git="_blank">"Identifying Priority Areas for Life Insurance Campaign"</a>
+    <a href="https://github.com/subaru3577/51_Priority-Areas-Insurance-Campaign.git" target="_blank">"Identifying Priority Areas for Life Insurance Campaign"</a>
   </li>
 
 </ul>
