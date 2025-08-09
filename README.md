@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaru3577&label=Profile%20views&color=0e75b6&style=flat" alt="subaru3577" /> </p>
 
-<h3 alighn="left">Who am I?</h3>
+<h3 alighn="left">Background</h3>
 
 - 📚 MSc in Urban Data Science and Analytics
-- 🏢 Transportation Engineer > Spatial Data Analyst
+- 🏢 Transportation Engineer -> Spatial Data Analyst
 
 
 
 <h3 alighn="left">Passion and Interset</h3>
 
-- 🤖 Automation
+- 🤖 Process automation
 - 🌏 Geospatial analysis and Location Intelligence
 - 🚃 Mobility analysis
 - 📷 Image analysis
