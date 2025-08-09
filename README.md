@@ -1,16 +1,17 @@
-<h1 align="center">Subaru, a Spatial Data Analyst | Transportation Engineer</h1>
+<h1 align="center">Subaru, Spatial Data Analyst </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subaru3577&label=Profile%20views&color=0e75b6&style=flat" alt="subaru3577" /> </p>
 
 <h3 alighn="left">Who am I?</h3>
 
-- 📚 I completed MSc in Urban Data Science and Analytics at the University of Leeds.
-- 🏢 I worked for an engineering consultancy firm as a transportation engineer for over five years.
+- 📚 MSc in Urban Data Science and Analytics
+- 🏢 Transportation Engineer > Spatial Data Analyst
 
 
 
 <h3 alighn="left">Passion and Interset</h3>
 
+- 🤖 Automation
 - 🌏 Geospatial analysis and Location Intelligence
 - 🚃 Mobility analysis
 - 📷 Image analysis
@@ -52,8 +53,8 @@
 <h3 align="left">Languages and Softwares</h3>
 
 - Python
+- Oracle SQL / PostgreSQL
 - QGIS
-- PostgreSQL
 - Tableau
 - SPSS
 - PTV VISSIM (Microscopic traffic simulation software)
