@@ -4,8 +4,9 @@
 
 <h3 alighn="left">Background</h3>
 
+- 🏢 Spatial Data Analyst <- Transportation Engineer
 - 📚 MSc in Urban Data Science and Analytics
-- 🏢 Transportation Engineer -> Spatial Data Analyst
+
 
 
 
